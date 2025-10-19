@@ -14,6 +14,7 @@
 - [go](https://github.com/nikivdev/go)
 - [py](https://github.com/nikivdev/py)
 - [rust](https://github.com/nikivdev/rust)
+- [swift](https://github.com/nikivdev/swift)
 - [mbt](https://github.com/nikivdev/mbt)
 
 ### [test](https://github.com/nikivdev/test)
