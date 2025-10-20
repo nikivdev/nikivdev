@@ -17,7 +17,7 @@
 - [swift](https://github.com/nikivdev/swift)
 - [mbt](https://github.com/nikivdev/mbt)
 
-### [test](https://github.com/nikivdev/test) [past](https://github.com/nikivdev/past) [snaps](https://github.com/nikivdev/snaps)
+### [test](https://github.com/nikivdev/test) [past](https://github.com/nikivdev/past) [snaps](https://github.com/nikivdev/snaps) [.flox](https://github.com/nikivdev/.flox)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikivdev) is appreciated and will give faster responses on [Discord server](https://discord.com/invite/TVafwaD23d) & GitHub. 🖤
 
