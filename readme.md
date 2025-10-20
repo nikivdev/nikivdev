@@ -8,8 +8,8 @@
   - [solbond.co](https://solbond.co) - Get paid for digital content & tasks done. Sell ownership. Manage finances.
   - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
 - [myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
-- [config](https://github.com/nikivdev/config) - Apps/CLIs/configs I use
-- [wiki](https://github.com/nikivdev/wiki) - Docs & things
+- [config](https://github.com/nikivdev/config)
+- [wiki](https://github.com/nikivdev/wiki)
 - [ts](https://github.com/nikivdev/ts)
 - [go](https://github.com/nikivdev/go)
 - [py](https://github.com/nikivdev/py)
