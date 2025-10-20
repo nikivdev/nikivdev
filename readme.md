@@ -9,7 +9,7 @@
   - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
 - [myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 - [config](https://github.com/nikivdev/config) - Apps/CLIs/configs I use
-- [nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
+- [wiki](https://github.com/nikivdev/wiki) - Docs & things
 - [ts](https://github.com/nikivdev/ts)
 - [go](https://github.com/nikivdev/go)
 - [py](https://github.com/nikivdev/py)
@@ -17,7 +17,7 @@
 - [swift](https://github.com/nikivdev/swift)
 - [mbt](https://github.com/nikivdev/mbt)
 
-### [test](https://github.com/nikivdev/test) [past](https://github.com/nikivdev/past)
+### [test](https://github.com/nikivdev/test) [past](https://github.com/nikivdev/past) [snaps](https://github.com/nikivdev/snaps)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikivdev) is appreciated and will give faster responses on [Discord server](https://discord.com/invite/TVafwaD23d) & GitHub. 🖤
 
