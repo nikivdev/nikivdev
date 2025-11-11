@@ -10,7 +10,7 @@
     - [ui](https://github.com/1focus-ai/ui) - UI components
   - [solbond.co](https://solbond.co) - Get paid for digital content & tasks done. Sell ownership. Manage finances.
   - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
-- [myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
+- [myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use. Full sync up tool.
 - [ghost](https://github.com/nikivdev/ghost) - Watch over things + stream your mac to remote server
 - [config](https://github.com/nikivdev/config)
 - [ts](https://github.com/nikivdev/ts)
