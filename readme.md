@@ -8,7 +8,7 @@
     - [1focus](https://github.com/1focus-ai/1focus) - Toolkit to build complex apps
     - [f](https://github.com/1focus-ai/f) - CLI to move faster in software projects
     - [ui](https://github.com/1focus-ai/ui) - UI components
-- [myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use. Full sync up tool.
+- [flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [ghost](https://github.com/nikivdev/ghost) - Watch over things + stream your mac to remote server
 - [config](https://github.com/nikivdev/config)
 - [ts](https://github.com/nikivdev/ts)
