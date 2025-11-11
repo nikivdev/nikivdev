@@ -8,8 +8,6 @@
     - [1focus](https://github.com/1focus-ai/1focus) - Toolkit to build complex apps
     - [f](https://github.com/1focus-ai/f) - CLI to move faster in software projects
     - [ui](https://github.com/1focus-ai/ui) - UI components
-  - [solbond.co](https://solbond.co) - Get paid for digital content & tasks done. Sell ownership. Manage finances.
-  - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration.
 - [myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use. Full sync up tool.
 - [ghost](https://github.com/nikivdev/ghost) - Watch over things + stream your mac to remote server
 - [config](https://github.com/nikivdev/config)
@@ -30,6 +28,10 @@
     <img width="800" heigth="200" src="https://raw.githubusercontent.com/nikivdev/nikivdev/main/cat.jpg"></img>
   </a>
 </details>
+
+<!-- TODO: do proper release first -->
+<!-- - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration. -->
+<!-- - [solbond.co](https://solbond.co) - Get paid for digital content & tasks done. Sell ownership. Manage finances. -->
 
 <!-- TODO: get working -->
 <!-- - [swift](https://github.com/nikivdev/swift) -->
