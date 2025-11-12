@@ -2,7 +2,9 @@
 
 💛 I [share](https://nikiv.dev/sharing) my life mostly on [X](https://x.com/nikivdev) & [IG](https://instagram.com/nikiv.dev) (DMs open, reach out). Songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & videos on [YouTube](https://youtube.com/@nikivdev).
 
-### 🟢 [Currently streaming](https://youtube.com/@nikivdev/streams)
+<!-- ### 🟢 [Currently streaming](https://youtube.com/@nikivdev/streams) -->
+
+### ⚫ [Just streamed](https://youtube.com/@nikivdev/streams)
 
 - org
   - [gen.new](https://gen.new) - Generate anything. Personalized. Any model.
