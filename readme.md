@@ -1,8 +1,8 @@
-### 🟢 [Currently streaming](https://youtube.com/@nikivdev/streams)
-
 👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [stream](https://youtube.com/@nikivdev/streams) coding [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow). I track [all changes](/changes) made.
 
 💛 I [share](https://nikiv.dev/sharing) my life mostly on [X](https://x.com/nikivdev) & [IG](https://instagram.com/nikiv.dev) (DMs open, reach out). Songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & videos on [YouTube](https://youtube.com/@nikivdev).
+
+### 🟢 [Currently streaming](https://youtube.com/@nikivdev/streams)
 
 - org
   - [gen.new](https://gen.new) - Generate anything. Personalized. Any model.
