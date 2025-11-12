@@ -1,6 +1,6 @@
 👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [stream](https://youtube.com/@nikivdev/streams) coding [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow). I track [all changes](/changes) made.
 
-💛 I [share](https://nikiv.dev/sharing) thoughts on [X](https://x.com/nikivdev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikiv.dev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & videos/streams on [YouTube](https://youtube.com/@nikivdev).
+💛 I [share](https://nikiv.dev/sharing) thoughts on [X](https://x.com/nikivdev) (DMs welcome, reach out), photos on [IG](https://instagram.com/nikiv.dev), songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & videos on [YouTube](https://youtube.com/@nikivdev).
 
 - org
   - [gen.new](https://gen.new) - Generate anything. Personalized. Any model.
