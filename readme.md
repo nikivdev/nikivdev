@@ -10,6 +10,7 @@
     - [1focus](https://github.com/1focus-ai/1focus) - Toolkit to build complex apps
     - [f](https://github.com/1focus-ai/f) - CLI to move faster in software projects
     - [ui](https://github.com/1focus-ai/ui) - UI components
+  - [linsa.io](https://linsa.io) - Save anything privately. Share it.
 - [flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [ghost](https://github.com/nikivdev/ghost) - Watch over things + stream your mac to remote server
 - [config](https://github.com/nikivdev/config)
