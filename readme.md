@@ -8,7 +8,7 @@
   - [gen.new](https://gen.new) - Generate anything. Personalized. Any model.
   - [1focus.ai](https://1focus.ai) - Collaborative tool for orgs to move fast. Orchestrate agents. Chat. All in 1 place.
     - [1focus](https://github.com/1focus-ai/1focus) - Toolkit to build complex apps
-    - [f](https://github.com/1focus-ai/f) - CLI to move faster in software projects
+    - [fast](https://github.com/1focus-ai/fast) - CLI to move faster in software projects
     - [ui](https://github.com/1focus-ai/ui) - UI components
   - [linsa.io](https://linsa.io) - Save anything privately. Share it.
 - [flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
