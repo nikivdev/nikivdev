@@ -12,7 +12,7 @@
     - [ui](https://github.com/1focus-ai/ui) - UI components
   - [linsa.io](https://linsa.io) - Save anything privately. Share it.
 - [flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
-- [research](https://github.com/nikivdev/research) - Research (code, docs, ..).
+- [research](https://github.com/nikivdev/research) - Research (code, docs, ..)
 - [config](https://github.com/nikivdev/config)
 - [ts](https://github.com/nikivdev/ts)
 - [go](https://github.com/nikivdev/go)
@@ -32,6 +32,7 @@
   </a>
 </details>
 
+<!-- - [genx.ai](https:genx.ai) - Hub for research. Train models. Tune agents. -->
 <!-- TODO: do proper release first -->
 <!-- - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration. -->
 <!-- - [solbond.co](https://solbond.co) - Get paid for digital content & tasks done. Sell ownership. Manage finances. -->
