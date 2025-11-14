@@ -11,8 +11,8 @@
     - [f](https://github.com/1focus-ai/f) - CLI to move faster in software projects
     - [ui](https://github.com/1focus-ai/ui) - UI components
   - [linsa.io](https://linsa.io) - Save anything privately. Share it.
-- [flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
-- [ghost](https://github.com/nikivdev/ghost) - Watch over things + stream your mac to remote server
+- [flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Sync.
+- [research](https://github.com/nikivdev/research) - Research (code, docs, ..).
 - [config](https://github.com/nikivdev/config)
 - [ts](https://github.com/nikivdev/ts)
 - [go](https://github.com/nikivdev/go)
