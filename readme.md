@@ -4,7 +4,7 @@
 
 <!-- ## 🟢 [Most likely streaming](https://youtube.com/@nikivdev/streams) -->
 
-## ⚫ [Paused streaming until I build my own streaming platform](https://youtube.com/@nikivdev/streams)
+### ⚫ [Paused streaming until I build my own streaming platform](https://youtube.com/@nikivdev/streams)
 
 - org
   - [gen.new](https://gen.new) - Generate anything. Personalized. Any model.
