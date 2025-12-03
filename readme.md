@@ -9,9 +9,6 @@
 - org
   - [gen.new](https://gen.new) - Generate anything. Personalized. Any model.
   - [1focus.ai](https://1focus.ai) - Collaborative tool for orgs to move fast. Orchestrate agents. Chat. All in 1 place.
-    - [1focus](https://github.com/1focus-ai/1focus) - Toolkit to build complex apps
-    - [fast](https://github.com/1focus-ai/fast) - CLI to move faster in software projects
-    - [ui](https://github.com/1focus-ai/ui) - UI components
   - [linsa.io](https://linsa.io) - Save anything privately. Share it.
 - [flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
 - [research](https://github.com/nikivdev/research) - Research (code, docs, ..)
@@ -34,7 +31,13 @@
   </a>
 </details>
 
+<!-- TODO: move this under 1focus.ai when its more solid, unclear about ui, if its good enough to share as i do things in anysynth now -->
+<!-- - [1focus](https://github.com/1focus-ai/1focus) - Toolkit to build complex apps -->
+<!-- - [fast](https://github.com/1focus-ai/fast) - CLI to move faster in software projects -->
+<!-- - [ui](https://github.com/1focus-ai/ui) - UI components -->
+
 <!-- - [genx.ai](https:genx.ai) - Hub for research. Train models. Tune agents. -->
+
 <!-- TODO: do proper release first -->
 <!-- - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration. -->
 <!-- - [solbond.co](https://solbond.co) - Get paid for digital content & tasks done. Sell ownership. Manage finances. -->
