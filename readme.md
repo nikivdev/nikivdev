@@ -16,6 +16,7 @@
 - [ts](https://github.com/nikivdev/ts)
 - [go](https://github.com/nikivdev/go)
 - [py](https://github.com/nikivdev/py)
+- [mojo](https://github.com/nikivdev/mojo)
 - [rust](https://github.com/nikivdev/rust)
 - [swift](https://github.com/nikivdev/swift)
 - [mbt](https://github.com/nikivdev/mbt)
