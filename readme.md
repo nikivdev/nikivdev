@@ -16,9 +16,9 @@
 - [ts](https://github.com/nikivdev/ts)
 - [go](https://github.com/nikivdev/go)
 - [py](https://github.com/nikivdev/py)
-- [mojo](https://github.com/nikivdev/mojo)
 - [rust](https://github.com/nikivdev/rust)
 - [swift](https://github.com/nikivdev/swift)
+- [mojo](https://github.com/nikivdev/mojo)
 - [mbt](https://github.com/nikivdev/mbt)
 
 ### [new](https://github.com/nikivdev/new) [test](https://github.com/nikivdev/test) [past](https://github.com/nikivdev/past) [snaps](https://github.com/nikivdev/snaps) [.flox](https://github.com/nikivdev/.flox) [raycast](https://github.com/nikivdev/raycast) [vscode](https://github.com/nikivdev/vscode)
