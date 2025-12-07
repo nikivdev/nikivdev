@@ -10,7 +10,7 @@
   - [gen.new](https://gen.new) - Generate anything. Personalized. Any model.
   - [1focus.ai](https://1focus.ai) - Collaborative tool for orgs to move fast. Orchestrate agents. Chat. All in 1 place.
   - [linsa.io](https://linsa.io) - Save anything privately. Share it.
-- [flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
+- [flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
 - [research](https://github.com/nikivdev/research)
 - [config](https://github.com/nikivdev/config)
 - [ts](https://github.com/nikivdev/ts)
