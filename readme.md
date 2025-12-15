@@ -6,7 +6,7 @@
 <!-- #### ⚫ [Paused streaming until I build my own streaming platform](https://youtube.com/@nikivdev/streams) -->
 
 - org
-  - [gen.new](https://gen.new) - Generate anything. Personalized. Any model.
+  - [gen.new](https://gen.new) - Multi modal AI. Optimal context. Any model. Fast.
 - [flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
 - [research](https://github.com/nikivdev/research)
 - [config](https://github.com/nikivdev/config)
