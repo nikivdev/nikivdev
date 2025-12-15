@@ -3,13 +3,10 @@
 💛 I [share](https://nikiv.dev/sharing) my life on [X](https://x.com/nikivdev) & [IG](https://instagram.com/nikiv.dev) (DMs open, reach out). Songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & videos on [YouTube](https://youtube.com/@nikivdev).
 
 <!-- ## 🟢 [Most likely streaming](https://youtube.com/@nikivdev/streams) -->
-
-#### ⚫ [Paused streaming until I build my own streaming platform](https://youtube.com/@nikivdev/streams)
+<!-- #### ⚫ [Paused streaming until I build my own streaming platform](https://youtube.com/@nikivdev/streams) -->
 
 - org
   - [gen.new](https://gen.new) - Generate anything. Personalized. Any model.
-  - [1focus.ai](https://1focus.ai) - Collaborative tool for orgs to move fast. Orchestrate agents. Chat. All in 1 place.
-  - [linsa.io](https://linsa.io) - Save anything privately. Share it.
 - [flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
 - [research](https://github.com/nikivdev/research)
 - [config](https://github.com/nikivdev/config)
@@ -32,16 +29,22 @@
   </a>
 </details>
 
+<!-- TODO: add back when works -->
+<!-- TODO: improve on 1focus.ai tagline, add solbond -->
+<!-- - [1focus.ai](https://1focus.ai) - Collaborative tool for orgs to move fast. Orchestrate agents. Chat. All in 1 place. -->
+<!-- - [linsa.io](https://linsa.io) - Save anything privately. Share it. -->
+<!-- - [solbond.co](https://solbond.co) - Process payments (fiat/crypto). Tokenize revenue.
+
 <!-- TODO: move this under 1focus.ai when its more solid, unclear about ui, if its good enough to share as i do things in anysynth now -->
 <!-- - [1focus](https://github.com/1focus-ai/1focus) - Toolkit to build complex apps -->
 <!-- - [fast](https://github.com/1focus-ai/fast) - CLI to move faster in software projects -->
 <!-- - [ui](https://github.com/1focus-ai/ui) - UI components -->
 
 <!-- - [genx.ai](https:genx.ai) - Hub for research. Train models. Tune agents. -->
+<!-- - [solbond.co](https://solbond.co) - Get paid for digital content & tasks done. Sell ownership. Manage finances. -->
 
 <!-- TODO: do proper release first -->
 <!-- - [learn-anything.xyz](https://learn-anything.xyz) - Make interlinked notes in private (E2E encrypted). Share parts of it to global network of topics with deep AI integration. -->
-<!-- - [solbond.co](https://solbond.co) - Get paid for digital content & tasks done. Sell ownership. Manage finances. -->
 
 <!-- TODO: get working -->
 <!-- - [swift](https://github.com/nikivdev/swift) -->
