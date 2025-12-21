@@ -8,10 +8,10 @@
 - org
   - [gen.new](https://gen.new) - Multi modal AI. Optimal context. Any model. Fast.
 - [flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
+- [rust](https://github.com/nikivdev/rust)
 - [ts](https://github.com/nikivdev/ts)
 - [go](https://github.com/nikivdev/go)
 - [py](https://github.com/nikivdev/py)
-- [rust](https://github.com/nikivdev/rust)
 
 ### [research](https://github.com/nikivdev/research) [config](https://github.com/nikivdev/config) [new](https://github.com/nikivdev/new) [test](https://github.com/nikivdev/test) [past](https://github.com/nikivdev/past) [snaps](https://github.com/nikivdev/snaps) [.flox](https://github.com/nikivdev/.flox) [raycast](https://github.com/nikivdev/raycast) [vscode](https://github.com/nikivdev/vscode)
 
