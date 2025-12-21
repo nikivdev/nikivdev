@@ -8,7 +8,6 @@
 - org
   - [gen.new](https://gen.new) - Multi modal AI. Optimal context. Any model. Fast.
 - [flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
-- [research](https://github.com/nikivdev/research)
 - [config](https://github.com/nikivdev/config)
 - [ts](https://github.com/nikivdev/ts)
 - [go](https://github.com/nikivdev/go)
@@ -18,7 +17,7 @@
 - [mojo](https://github.com/nikivdev/mojo)
 - [mbt](https://github.com/nikivdev/mbt)
 
-### [new](https://github.com/nikivdev/new) [test](https://github.com/nikivdev/test) [past](https://github.com/nikivdev/past) [snaps](https://github.com/nikivdev/snaps) [.flox](https://github.com/nikivdev/.flox) [raycast](https://github.com/nikivdev/raycast) [vscode](https://github.com/nikivdev/vscode)
+### [research](https://github.com/nikivdev/research) [new](https://github.com/nikivdev/new) [test](https://github.com/nikivdev/test) [past](https://github.com/nikivdev/past) [snaps](https://github.com/nikivdev/snaps) [.flox](https://github.com/nikivdev/.flox) [raycast](https://github.com/nikivdev/raycast) [vscode](https://github.com/nikivdev/vscode)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikivdev) is appreciated and will give faster responses on [Discord server](https://discord.com/invite/TVafwaD23d) & GitHub. 🖤
 
