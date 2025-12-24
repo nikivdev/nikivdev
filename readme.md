@@ -1,6 +1,6 @@
-👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [stream](https://youtube.com/@nikivdev/streams) coding [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow). I track [all changes](https://nikiv.dev/changes) made.
+👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [stream](https://linsa.io/nikiv) coding [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow). I track [all changes](https://nikiv.dev/changes) made.
 
-💛 I [share](https://nikiv.dev/sharing) my life on [X](https://x.com/nikivdev) & [IG](https://instagram.com/nikiv.dev) (DMs open, reach out). Songs on [Spotify](https://open.spotify.com/user/nikitavoloboev) & videos on [YouTube](https://youtube.com/@nikivdev).
+💛 I [share](https://nikiv.dev/sharing) my life on [X](https://x.com/nikivdev) & [IG](https://instagram.com/nikiv.dev) (DMs open, reach out).
 
 <!-- ## 🟢 [Most likely streaming](https://youtube.com/@nikivdev/streams) -->
 <!-- #### ⚫ [Paused streaming until I build my own streaming platform](https://youtube.com/@nikivdev/streams) -->
