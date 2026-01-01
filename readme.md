@@ -14,7 +14,7 @@
 - [go](https://github.com/nikivdev/go)
 - [py](https://github.com/nikivdev/py)
 
-### [research](https://github.com/nikivdev/research) [config](https://github.com/nikivdev/config) [new](https://github.com/nikivdev/new) [test](https://github.com/nikivdev/test) [past](https://github.com/nikivdev/past) [snaps](https://github.com/nikivdev/snaps) [.flox](https://github.com/nikivdev/.flox) [raycast](https://github.com/nikivdev/raycast) [vscode](https://github.com/nikivdev/vscode)
+### [research](https://github.com/nikivdev/research) [config](https://github.com/nikivdev/config) [new](https://github.com/nikivdev/new) [test](https://github.com/nikivdev/test) [past](https://github.com/nikivdev/past) [snaps](https://github.com/nikivdev/snaps) [.flox](https://github.com/nikivdev/.flox) [raycast](https://github.com/nikivdev/raycast) [vscode](https://github.com/nikivdev/vscode) [kar](https://github.com/nikivdev/kar)
 
 [Sponsoring my work on GitHub](https://github.com/sponsors/nikivdev) is appreciated and will give faster responses on [Discord server](https://discord.com/invite/TVafwaD23d) & GitHub. 🖤
 
