@@ -17,7 +17,7 @@
 
 <!-- - [py](https://github.com/nikivdev/py) -->
 
-### [config](https://github.com/nikivdev/config) [kar](https://github.com/nikivdev/kar) [new](https://github.com/nikivdev/new)
+### [config](https://github.com/nikivdev/config) [kar](https://github.com/nikivdev/kar) [new](https://github.com/nikivdev/new) [alfred](https://github.com/nikivdev/alfred)
 
 <!-- ### [config](https://github.com/nikivdev/config) [new](https://github.com/nikivdev/new) [research](https://github.com/nikivdev/research) [test](https://github.com/nikivdev/test) [past](https://github.com/nikivdev/past) [snaps](https://github.com/nikivdev/snaps) [.flox](https://github.com/nikivdev/.flox) [raycast](https://github.com/nikivdev/raycast) [vscode](https://github.com/nikivdev/vscode) [kar](https://github.com/nikivdev/kar) -->
 
