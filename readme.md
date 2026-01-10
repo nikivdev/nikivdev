@@ -7,8 +7,7 @@
 
 - org
   - [gen.new](https://gen.new) - Multi modal AI. Optimal context. Any model. Fast.
-  - [linsa.io](https://linsa.io) - Save anything. Share, sell or collaborate. Privately.
-- [flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
+- [flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 - [rust](https://github.com/nikivdev/rust)
 - [ts](https://github.com/nikivdev/ts)
 - [go](https://github.com/nikivdev/go)
