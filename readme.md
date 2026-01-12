@@ -1,4 +1,6 @@
-👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [stream](https://nikiv.dev/stream) coding [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow).
+👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/journal) & code [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow).
+
+<!-- 👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [stream](https://nikiv.dev/stream) coding [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow). -->
 
 <!-- 👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/looking-back) & [stream](https://nikiv.dev/stream) coding [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow). I track [all changes](https://nikiv.dev/changes) made. -->
 
