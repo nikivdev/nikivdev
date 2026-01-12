@@ -17,6 +17,7 @@
 - [ts](https://github.com/nikivdev/ts)
 - [go](https://github.com/nikivdev/go)
 - [py](https://github.com/nikivdev/py)
+- [swift](https://github.com/nikivdev/swift)
 
 ### [config](https://github.com/nikivdev/config) [kar](https://github.com/nikivdev/kar) [new](https://github.com/nikivdev/new) [alfred](https://github.com/nikivdev/alfred)
 
