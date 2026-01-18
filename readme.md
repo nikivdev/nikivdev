@@ -10,7 +10,7 @@
 <!-- #### ⚫ [Paused streaming until I build my own streaming platform](https://youtube.com/@nikivdev/streams) -->
 
 - org
-  - [gen.new](https://gen.new) - Multi modal AI. Optimal context. Any model. Fast.
+  - [gen.new](https://gen.new) - Create anything fast with AI. Optimal context.
   - [learn-anything.xyz](https://learn-anything.xyz) - Learn and keep track of any topic
 - [flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 - [rust](https://github.com/nikivdev/rust)
