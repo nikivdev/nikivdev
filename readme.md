@@ -19,6 +19,7 @@
 </details>
 
 <!-- todo: add back whenever I get time again to dev this -->
+<!-- this was right above `flow` before -->
 <!-- - org -->
   <!-- - [gen.new](https://gen.new) - Create fast with AI. Optimal context. -->
   <!-- - [learn-anything.xyz](https://learn-anything.xyz) - Learn and keep track of any topic -->
