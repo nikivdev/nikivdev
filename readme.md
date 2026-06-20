@@ -1,15 +1,10 @@
 👋 I [learn](https://nikiv.dev), [journal](https://nikiv.dev/journal) & code [projects](https://nikiv.dev/focus) using [lovely tools](https://nikiv.dev/workflow).
 
 💛 I [share](https://nikiv.dev/sharing) my life on [X](https://x.com/nikivdev) & [IG](https://instagram.com/nikiv.dev) (DMs open, reach out).
-- [flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
-- [rust](https://github.com/nikivdev/rust)
-- [ts](https://github.com/nikivdev/ts)
-- [go](https://github.com/nikivdev/go)
-- [py](https://github.com/nikivdev/py)
-- [mbt](https://github.com/nikivdev/mbt)
-- [swift](https://github.com/nikivdev/swift)
+- [flow](https://github.com/nikivdev/flow) - Move faster with autonomy.
+- [linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately. With autonomy.
 
-### [config](https://github.com/nikivdev/config) [kar](https://github.com/nikivdev/kar) [new](https://github.com/nikivdev/new) [alfred](https://github.com/nikivdev/alfred) [seq](https://github.com/nikivdev/seq)
+### [config](https://github.com/nikivdev/config) [kar](https://github.com/nikivdev/kar)
 
 <details><summary>🐱</summary>
   <br/>
@@ -17,9 +12,3 @@
     <img width="800" heigth="200" src="https://raw.githubusercontent.com/nikivdev/nikivdev/main/cat.jpg"></img>
   </a>
 </details>
-
-<!-- todo: add back whenever I get time again to dev this -->
-<!-- this was right above `flow` before -->
-<!-- - org -->
-  <!-- - [gen.new](https://gen.new) - Create fast with AI. Optimal context. -->
-  <!-- - [learn-anything.xyz](https://learn-anything.xyz) - Learn and keep track of any topic -->
