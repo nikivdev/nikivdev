@@ -2,6 +2,5 @@
 
 💛 I [share](https://nikiv.dev/sharing) my life on [X](https://x.com/nikivdev) & [IG](https://instagram.com/nikiv.dev) (DMs open, reach out).
 - [flow](https://github.com/nikivdev/flow) - Move faster with autonomy.
-- [linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
 - [config](https://github.com/nikivdev/config) - Config I use.
 - [kar](https://github.com/nikivdev/kar) - Manage Karabiner config.
